@@ -4,6 +4,6 @@ findMedian = (arr) => {
     })
     let tamanho = arr.length, tamanhoArredondado = 0;
     tamanhoArredondado = Math.round((tamanho / 2));
-    console.log(arrayOrdenado);
-    console.log(arrayOrdenado[tamanhoArredondado - 1]);
+
+    return (arrayOrdenado[tamanhoArredondado - 1]);
 }

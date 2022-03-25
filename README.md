@@ -1,2 +1,2 @@
 # hackerrank-challenges
-Repository for my codes of hackerrank.com challenges
+Repository for my codes from hackerrank.com challenges

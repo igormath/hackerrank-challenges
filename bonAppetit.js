@@ -10,6 +10,3 @@ function bonAppetit(bill, k, b) {
 
     b === (soma - brianParte) ? console.log("Bon Appetit") : console.log(((soma - brianParte) - b) * -1);
 }
-
-bonAppetit([3, 10, 2, 9], 1, 12);
-bonAppetit([3, 10, 2, 9], 1, 7);
